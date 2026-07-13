@@ -77,3 +77,7 @@ Nope.
 
 ### This is not working properly in Windows... Help!
 Although it might work in Windows, I have only used this process in *NIX machines. Some commands might have to be altered in `package.json` to adapt for proper Windows usage.
+
+---
+
+Built by J Lopes. More work and writing at [jlopes.eu](https://jlopes.eu).
